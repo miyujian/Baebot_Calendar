@@ -15,7 +15,7 @@ BAEBot is catered for a wide range of users to provide quality assistance in sch
 2. Java / Android Studio
 3. Google APIs
 
-### Apps Feature:
+## Apps Feature:
 1. Integration with Google Calendar
 2. One-click reschedule unfinished tasks
 3. Weathers based on user location
