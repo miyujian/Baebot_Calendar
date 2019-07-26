@@ -1,5 +1,7 @@
 # BAEBot Calendar
 
+![](sample_screen_1.png) 
+
 ## Introduction
 BAEBot makes it easier to manage tasks because it has all the necessary functionalities to organize a calendar and in addition, it can automate some re-scheduling activities. A user can add, edit or delete a task in BAEBot effortlessly and view the corresponding task details with a single tap. Should a user choose to postpone a task for some reason, or a task becomes overdue, BAEBot will take care of this by searching for other availabilities in the calendar and automatically rescheduling this task. In this process, BAEBot will act smart and try to avoid scheduling the task at a similar time, so as to minimize the possibility of postponing that task again. With the basic calendar functionalities and the additional automatic scheduling for overdue tasks, BAEBot will make it easier to organize daily schedules.
 
